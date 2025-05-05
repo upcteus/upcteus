@@ -32,3 +32,5 @@
   <img src="https://img.shields.io/badge/Feature--Sliced%20Design-%20-orange?style=for-the-badge" alt="Feature Sliced Design" />
   <img src="https://img.shields.io/badge/Micro--Frontends-%20-00bcd4?style=for-the-badge" alt="Micro Frontends" />
 </p>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mememaker.net%2Fstatic%2Fimages%2Fmemes%2F4036178.jpg&f=1&nofb=1&ipt=288d799bdab9dc6de5598855873291d239901c012a97816e2f96d3e06892ef05)
