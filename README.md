@@ -1,4 +1,4 @@
-<h1>teus</h1>
+<h1>Hola, Soy Mateo pe</h1>
 
 <p>
   <img src="https://img.shields.io/badge/The%20Angular%20Way-%E2%9C%94-red?style=for-the-badge&logo=angular" alt="The Angular Way" />
@@ -11,7 +11,7 @@
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-  love vibe coding
+  love vibe coding and llantis llantis
 </p>
 
 ## Technologies
@@ -31,8 +31,4 @@
   <img src="https://img.shields.io/badge/Clean%20Architecture-%20-blueviolet?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/Feature--Sliced%20Design-%20-orange?style=for-the-badge" alt="Feature Sliced Design" />
   <img src="https://img.shields.io/badge/Micro--Frontends-%20-00bcd4?style=for-the-badge" alt="Micro Frontends" />
-</p>
-
-<p align="center">
-  amiga pa llantear ps
 </p>
