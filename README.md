@@ -1,6 +1,6 @@
 <h1>Hola, Soy Mateo pe</h1>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/The%20Angular%20Way-%E2%9C%94-red?style=for-the-badge&logo=angular" alt="The Angular Way" />
 </p>
 
