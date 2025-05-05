@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 Client-side Development
+## Client-side Development
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔧 Server-side Technologies
+## Server-side Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Development Tools
+## Development Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40"/>
@@ -52,11 +52,11 @@
 
 ---
 
-## 🧱 Arquitectura
+## Arquitecturas
 
-- [📦 Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [🧩 Feature-Sliced Design (Modular Frontend)](https://feature-sliced.design/)
-- [🌐 Micro Frontends (by Martin Fowler)](https://martinfowler.com/articles/micro-frontends.html)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-blueviolet?style=for-the-badge)
+![Feature-Sliced Design](https://img.shields.io/badge/Frontend-Feature--Sliced-orange?style=for-the-badge)
+![Micro Frontends](https://img.shields.io/badge/Frontend-Micro--Frontends-00bcd4?style=for-the-badge)
 
 ---
 
