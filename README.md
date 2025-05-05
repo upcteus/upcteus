@@ -11,7 +11,7 @@
 <h3>Software Engineering Student</h3>
 
 <h4>
-  love vibe coding and llantis llantis
+  love vibe coding and canchis canchis
 </h4>
 
 ## Technologies
