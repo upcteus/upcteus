@@ -1,10 +1,10 @@
 <h1>teus</h1>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/The%20Angular%20Way-%E2%9C%94-red?style=for-the-badge&logo=angular" alt="The Angular Way" />
 </p>
 
-<p>
+<p align="center">
   <img src="mateito.webp" width="160" height="160" style="border-radius: 50%;" alt="profile photo" />
 </p>
 
