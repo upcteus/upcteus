@@ -8,11 +8,11 @@
   <img src="mateito.webp" width="160" height="160" style="border-radius: 50%;" alt="profile photo" />
 </p>
 
-<h2>Software Engineering Student</h2>
+<h3>Software Engineering Student</h3>
 
-<h3>
+<h4>
   love vibe coding and llantis llantis
-</h3>
+</h4>
 
 ## Technologies
 <p align="center">
