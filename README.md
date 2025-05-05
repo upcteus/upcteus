@@ -10,7 +10,6 @@
   Vibe Coding
 </p>
 
----
 
 ## Client-side Development
 
@@ -21,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40"/>
 </p>
 
----
 
 ## Server-side Technologies
 
@@ -33,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
 </p>
-
----
 
 ## Development Tools
 
@@ -50,15 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
 </p>
 
----
 
-## Arquitecturas
+## Architectures
 
 ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-blueviolet?style=for-the-badge)
 ![Feature-Sliced Design](https://img.shields.io/badge/Frontend-Feature--Sliced-orange?style=for-the-badge)
 ![Micro Frontends](https://img.shields.io/badge/Frontend-Micro--Frontends-00bcd4?style=for-the-badge)
-
----
 
 <p align="center">
   amiga pa llantear ps
