@@ -4,13 +4,13 @@
   <img src="https://img.shields.io/badge/The%20Angular%20Way-%E2%9C%94-red?style=for-the-badge&logo=angular" alt="The Angular Way" />
 </p>
 
-<p align="center">
+<p>
   <img src="mateito.webp" width="160" height="160" style="border-radius: 50%;" alt="profile photo" />
 </p>
 
-<h3 align="center">Software Engineering Student</h3>
+<h3>Software Engineering Student</h3>
 
-<p align="center">
+<p>
   love vibe coding and llantis llantis
 </p>
 
