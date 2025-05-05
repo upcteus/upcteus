@@ -1,7 +1,7 @@
 <h1 align="center">🐟t🐻</h1>
 
 <p align="center">
-  <img src="assets/me.png" width="160" height="160" style="border-radius: 50%;" alt="a🐟t🐻 profile photo" />
+  <img src="mateito.webp" width="160" height="160" style="border-radius: 50%;" alt="a🐟t🐻 profile photo" />
 </p>
 
 <h3 align="center"> Developer · Software Engineering Student</h3>
