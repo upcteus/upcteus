@@ -28,9 +28,9 @@
 ## Architectures
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-Official-blueviolet?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Feature--Sliced%20Design-Official-orange?style=for-the-badge" alt="Feature Sliced Design" />
-  <img src="https://img.shields.io/badge/Micro--Frontends-Official-00bcd4?style=for-the-badge" alt="Micro Frontends" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%20-blueviolet?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Feature--Sliced%20Design-%20-orange?style=for-the-badge" alt="Feature Sliced Design" />
+  <img src="https://img.shields.io/badge/Micro--Frontends-%20-00bcd4?style=for-the-badge" alt="Micro Frontends" />
 </p>
 
 <p align="center">
