@@ -22,7 +22,7 @@
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,npm,atom,md,latex,vite,figma,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,webstorm,postman,npm,atom,md,latex,vite,figma,docker&theme=dark" />
 </p>
 
 ## Architectures
