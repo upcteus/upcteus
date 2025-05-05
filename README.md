@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="mateito.webp" width="160" height="160" style="border-radius: 50%;" alt="profile photo" />
+  <img src="teus-chibolo.jpg" width="160" height="160" style="border-radius: 50%;" alt="profile photo" />
 </p>
 
 <h3>Software Engineering Student</h3>
