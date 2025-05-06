@@ -16,7 +16,7 @@
 
 ## Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,sass,bun,java,spring,php,laravel,python,redis,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,scss,bun,java,spring,php,laravel,python,redis,bootstrap&theme=dark" />
 </p>
 
 ## Tools
